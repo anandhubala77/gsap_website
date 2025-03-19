@@ -1,0 +1,19 @@
+
+@layer utilities {
+    /* Custom font utilities */
+    .font-general {
+      font-family: "general", sans-serif;
+    }
+    .font-circular {
+      font-family: "circular-web", sans-serif;
+    }
+    .font-robert-regular {
+      font-family: "robert-regular", sans-serif;
+    }
+    .font-robert-medium {
+      font-family: "robert-medium", sans-serif;
+    }
+    .font-zentry {
+      font-family: "zentry", sans-serif;
+    }
+  }

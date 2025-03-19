@@ -1,0 +1,5 @@
+<section className="relative w-screen min-h-screen overflow-hidden bg-[var(--color-blue-50)]">
+  <h1 className="absolute top-10 left-10 text-5xl text-[var(--color-violet-300)] font-bold">
+    Fullscreen Hero ✨
+  </h1>
+</section>
